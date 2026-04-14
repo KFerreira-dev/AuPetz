@@ -27,7 +27,7 @@ const ContactSection = () => (
 
       <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-4xl mx-auto">
         {[
-          { icon: MessageCircle, label: "WhatsApp", value: "(00) 00000-0000", href: "https://wa.me/5500000000000", color: "text-secondary" },
+          { icon: MessageCircle, label: "WhatsApp", value: "(11) 97678-1568", href: "https://wa.me/5511976781568", color: "text-secondary" },
           { icon: Instagram, label: "Instagram", value: "@aupetz", href: "https://instagram.com/aupetz", color: "text-primary" },
           { icon: Mail, label: "E-mail", value: "contato@aupetz.com", href: "mailto:contato@aupetz.com", color: "text-accent" },
           { icon: MapPin, label: "Localização", value: "Juquitiba-SP", href: "#", color: "text-primary" },
